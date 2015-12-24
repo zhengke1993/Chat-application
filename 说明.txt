@@ -1,0 +1,6 @@
+chatterbox目录下是client项目
+chatterboxd目录下是server项目
+聊天工具的登录需要搭建网站注册
+我的架构是:Linux+Apache+Mysql+PHP
+Qt版本：5.5.1
+MySQL版本：5.7.10
